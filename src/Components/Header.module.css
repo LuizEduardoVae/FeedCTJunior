@@ -1,5 +1,33 @@
 
 .header{
-    height: 80px;
+    height: 90px;
     background: var(--gray-800);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+    padding: 0px;
+    gap: 15.99px;
+    flex-direction: row;
+    left: 616px;
+    top: calc(50% - 68px/2 + 0.38px);
+
+}
+
+.header img {
+width: 4rem;
+height: 4.25rem;
+
+}
+
+.header strong{
+width: 11rem;
+height: 2.563rem;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25.5853px;
+line-height: 160%;
+color: rgb(247, 247, 247);
 }
