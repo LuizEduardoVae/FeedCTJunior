@@ -1,0 +1,17 @@
+.caixa{
+    width: 256px;
+    height: 294px;
+    background: var(--gray-800);
+    border-radius: 8px;
+}
+
+.principal{
+    width: 70rem;
+    margin: 2rem auto;
+    padding: o 1rem;
+
+    display: grid;
+    grid-template-columns: 256px 1fr;
+    gap: 2rem;
+    align-items: flex-start;
+}
