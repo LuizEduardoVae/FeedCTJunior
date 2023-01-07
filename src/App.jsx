@@ -15,11 +15,11 @@ export function App(){
         <Sidebar />
         <main>
           <Post
-            author="Diego Fernandes"
+            author="Luiz Eduardo"
             content="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime itaque quas corporis beatae veritatis, reprehenderit asperiores vitae quod possimus qui dignissimos unde deleniti consequatur quae, repellat debitis sunt, est rerum!"
           />
           <Post
-            author="Gabriel Buzzi"
+            author="Luizao"
             content="Um novo post muito legal"
           />
         </main>
