@@ -1,7 +1,7 @@
 
 import axios, { Axios } from "axios";
 import { Header } from "./Components/Header";
-import { Post } from "./post";
+import { Post } from "./components/post";
 import { Sidebar } from "./Components/Sidebar";
 
 import './Global.css';
